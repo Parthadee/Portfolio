@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
 [![X Follow](https://img.shields.io/twitter/follow/de_parthaa_?style=social)](https://x.com/de_parthaa)
-[![Discord Follow](https://img.shields.io/discord/follow/593797909879717897)](https://discord.com/channels/@me/746829396907917313)
+[![Discord Follow](https://img.shields.io/discord/593797909879717897)](https://discord.com/channels/@me/746829396907917313)
 
 
 
