@@ -12,7 +12,7 @@ Portfolio is a fully responsive personal portfolio website, responsive for all d
 ## Demo
 
 ![Portfolio Desktop Demo](./website-demo-image/Desktop.png "Desktop Demo")
-![Portfolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Portfolio Mobile Demo](./website-demo-image/Mobile.png "Mobile Demo")
 
 ## Prerequisites
 
