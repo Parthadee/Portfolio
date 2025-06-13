@@ -1,48 +1,67 @@
-# 💼 Abhijeet's Portfolio Website
+<h1 align="center">💼 Partha's Portfolio Website</h1>
 
-A modern, responsive personal portfolio website showcasing my work as a full-stack web developer. Built with HTML, CSS, JavaScript, Bootstrap, GSAP, and integrated with a stunning animated particle background.
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/Parthadee/Portfolio" alt="Repo Size" />
+  <img src="https://img.shields.io/github/stars/Parthadee/Portfolio?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/Parthadee/Portfolio?style=social" alt="GitHub Forks" />
+  <a href="https://x.com/de_parthaa" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/de_parthaa_?style=social" alt="Follow on Twitter/X" />
+  </a>
+</p>
+
+<p align="center">
+  <b>A modern, responsive personal portfolio website to showcase my work as a Full-Stack Web Developer.</b><br/>
+  <i>Crafted with ❤️ using HTML, CSS, JavaScript, Bootstrap, GSAP & Particles.js</i>
+</p>
+
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <img src="https://github.com/Parthadee/Portfolio/blob/82fe9acc10d6c289bedc9f6213562fe6d71048d7/demo/Desktop.png" alt="Desktop Demo" />
+</p>
+<p align="center">
+  <img src="https://github.com/Parthadee/Portfolio/blob/82fe9acc10d6c289bedc9f6213562fe6d71048d7/demo/Mobile.png" alt="Mobile Demo" />
+</p>
 
 ---
 
 ## 🚀 Features
 
-- Responsive design for all screen sizes
-- Interactive hamburger menu for mobile view
-- Hero section with animated name using GSAP
-- Snowfall particle background using [particles.js](http://vincentgarreau.com/particles.js/#snow)
-- Stylish "View Projects" button with neon glow effect
-- Smooth scroll and clean layout
+📱 **Responsive Design** — Mobile, tablet & desktop friendly  
+💼 **Portfolio Sections** — Interactive **Projects**, **Skills**, and **Contact**  
+✨ **Animated Name Reveal** — Powered by **GSAP**  
+❄️ **Snow Particle Background** — Using **Particles.js**  
+💡 **Neon Glow Effect** — On "View Projects" button  
+🧹 **Clean Code & Layout** — Smooth scrolling navigation
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-- **HTML5** – Semantic markup
-- **CSS3** – Custom styling + Bootstrap 5
-- **JavaScript** – Core interactivity and animations
-- **GSAP** – Name animation on load
-- **Particles.js** – Snow background effect
-- **Bootstrap 5** – Responsive layout and grid
+- 🧱 **HTML5** – Semantic markup for structure  
+- 🎨 **CSS3** – Custom styling with responsive design using Bootstrap 5
+- ⚙️ **JavaScript** – Adds interactivity and DOM manipulation   
+- 🌀 **GSAP** – Powerful animation library for smooth transitions([GSAP](https://greensock.com/gsap/))  
+- ❄️ **Particles.js** – Lightweight particle background (snow effect)([particles.js](http://vincentgarreau.com/particles.js/))  
+- 📐 **Bootstrap 5** – Grid system and layout framework([Bootstrap](https://getbootstrap.com/))
+  
+  <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://greensock.com/gsap/" target="_blank"><img src="https://api.iconify.design/simple-icons:greensock.svg" alt="GSAP" width="40" height="40"/></a>
+  <a href="http://vincentgarreau.com/particles.js/" target="_blank"><img src="https://api.iconify.design/simple-icons:javascript.svg" alt="Particles.js" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 📸 Live Preview
+## 📦 Installation
 
-👉 [[Live Demo]](https://abhijeetbhale.github.io/Portfolio/)
+Clone this repository:
 
----
-
-## 📂 Folder Structure
-
-PORTFOLIO
-    |
-    |--assests/
-    |
-    |-- index.html
-    |
-    |--styles.css
-    |
-    |--script.js
-    |
-    |--README.md
-    _
+```bash
+git clone https://github.com/Parthadee/Portfolio.git
+cd Portfolio
