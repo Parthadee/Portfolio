@@ -1,45 +1,48 @@
-# My Personal Portfolio
+# 💼 Abhijeet's Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Parthadee/Portfolio)
-![GitHub stars](https://img.shields.io/github/stars/Parthadee/Portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Parthadee/Portfolio?style=social)
-[![X Follow](https://img.shields.io/twitter/follow/de_parthaa_?style=social)](https://x.com/de_parthaa)
+A modern, responsive personal portfolio website showcasing my work as a full-stack web developer. Built with HTML, CSS, JavaScript, Bootstrap, GSAP, and integrated with a stunning animated particle background.
 
+---
 
+## 🚀 Features
 
-Portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+- Responsive design for all screen sizes
+- Interactive hamburger menu for mobile view
+- Hero section with animated name using GSAP
+- Snowfall particle background using [particles.js](http://vincentgarreau.com/particles.js/#snow)
+- Stylish "View Projects" button with neon glow effect
+- Smooth scroll and clean layout
 
-## Demo
+---
 
-![Portfolio Desktop Demo](./website-demo-image/Desktop.png "Desktop Demo")
-![Portfolio Mobile Demo](./website-demo-image/Mobile.png "Mobile Demo")
+## 🛠️ Tech Stack
 
-## Prerequisites
+- **HTML5** – Semantic markup
+- **CSS3** – Custom styling + Bootstrap 5
+- **JavaScript** – Core interactivity and animations
+- **GSAP** – Name animation on load
+- **Particles.js** – Snow background effect
+- **Bootstrap 5** – Responsive layout and grid
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 📸 Live Preview
 
-## Installing vCard
+👉 [[Live Demo]](https://abhijeetbhale.github.io/Portfolio/)
 
-To install **Portfolio**, follow these steps:
+---
 
-Linux and macOS:
+## 📂 Folder Structure
 
-```bash
-sudo git clone https://github.com/Parthadee/Portfolio.git
-```
-
-Windows:
-
-```bash
-git clonehttps://github.com/Parthadee/Portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://x.com/de_parthaa).
-
-## License
-
-MIT
+PORTFOLIO
+    |
+    |--assests/
+    |
+    |-- index.html
+    |
+    |--styles.css
+    |
+    |--script.js
+    |
+    |--README.md
+    _
