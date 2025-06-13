@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>I built a fully responsive personal portfolio website that adapts seamlessly to all devices, showcasing my skills, projects, and professional journey. This project is developed using HTML, CSS, and JavaScript, ensuring a clean and interactive user experience.</b><br/>
-  <i>Crafted with ❤️ using HTML, CSS, JavaScript, Bootstrap, GSAP & Particles.js</i>
+  <i>Crafted with love and time using HTML, CSS, JavaScript, Bootstrap, GSAP & Particles.js</i>
 </p>
 
 ---
